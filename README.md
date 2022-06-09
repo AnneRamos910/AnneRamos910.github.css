@@ -1,5 +1,5 @@
 # AnneRamos910#
-Projeto Web feito com HTML & CSS.
+Repositorio feito com HTML & CSS.
 
 Conceitos aplicados:
 
